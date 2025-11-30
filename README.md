@@ -3,4 +3,5 @@
 
 这个仓库里包含了一个在命令行里玩月亮棋的程序(main.cpp)和一个使用dp寻找最优策略的程序(search.cpp).
 
-这个游戏实际上有必胜策略。
+这个游戏实际上有必胜策略，策略如下。
+![image](https://github.com/TonyShok/Lunar_chess/blob/image/images.jpg)
